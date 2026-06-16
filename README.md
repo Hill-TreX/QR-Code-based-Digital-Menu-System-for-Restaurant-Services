@@ -102,8 +102,8 @@ php-menu/
 ## Production Deployment (InfinityFree / cPanel)
 
 1. Upload all files via FTP or File Manager.
-2. Import `database/restaurant_menu_update.sql` through phpMyAdmin.
-3. Update `config/db.php` with your hosting database credentials.
+2. Import `database/database.sql` through phpMyAdmin.
+3. Update `config/db.php` with your hosting database credentials.  `config/db.txt` 
 4. Ensure your `.htaccess` does **not** redirect `.php` requests to `index.html`.
 
 ---
