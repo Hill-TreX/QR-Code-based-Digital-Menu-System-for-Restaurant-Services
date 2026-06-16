@@ -39,7 +39,7 @@ C:/xampp/htdocs/php-menu/        (Windows)
 
 1. Open **phpMyAdmin** → `http://localhost/phpmyadmin`
 2. Click **Import**
-3. Choose the file: `database/restaurant_menu.sql`
+3. Choose the file: `database/database.sql`
 4. Click **Go**
 
 This creates all tables and seeds the default settings.
@@ -58,7 +58,7 @@ define('DB_NAME', 'restaurant_menu');
 ### 4. Start the app
 
 1. Start **Apache** and **MySQL** in the XAMPP Control Panel
-2. Visit: `http://localhost/php-menu/`
+2. Visit: `http://localhost`
 
 ---
 
@@ -68,7 +68,7 @@ Go to: `http://localhost/php-menu/admin/login.php`
 
 | Username | Password  |
 |----------|-----------|
-| admin    | admin123  |
+| admin    |  password |
 
 > **Change your password** after first login via Settings.
 
