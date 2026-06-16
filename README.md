@@ -39,7 +39,7 @@ C:/xampp/htdocs/php-menu/        (Windows)
 
 1. Open **phpMyAdmin** → `http://localhost/phpmyadmin`
 2. Click **Import**
-3. Choose the file: `database/restaurant_menu_update.sql`
+3. Choose the file: `database/restaurant_menu.sql`
 4. Click **Go**
 
 This creates all tables and seeds the default settings.
