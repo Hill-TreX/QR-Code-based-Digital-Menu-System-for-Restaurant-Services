@@ -4,6 +4,53 @@ A PHP-based restaurant digital menu system where customers scan a QR code at the
 
 ---
 
+## Preview
+
+### Customer Pages
+
+**Landing Page**
+![Landing Page](assets/landing_page.png)
+
+**Menu View**
+![Menu View](assets/menue-view.png)
+
+**Cart**
+![Cart](assets/Cart.png)
+
+**Checkout**
+![Checkout](assets/checkout.png)
+
+**Order Tracking**
+![Order Tracking](assets/Order_tracking.png)
+
+**Track Order**
+![Track Order](assets/Track_Order.png)
+
+### Admin Panel
+
+**Dashboard**
+![Admin Dashboard](assets/Admin-Dashboard.png)
+
+**Orders**
+![Admin Orders](assets/Admin-Orders.png)
+
+**Menu Items**
+![Admin Menu Items](assets/Admin-Menu%20Items.png)
+
+**Categories**
+![Admin Categories](assets/Admin-Categories.png)
+
+**Tables**
+![Admin Tables](assets/Admin_Tables.png)
+
+**Analytics**
+![Admin Analytics](assets/Admin_Analytics.png)
+
+**Settings**
+![Admin Settings](assets/Admin_Setting.png)
+
+---
+
 ## Features
 
 - **QR Table System** — Each table gets a unique QR code. Scanning it loads the menu pre-loaded with the table identity.
